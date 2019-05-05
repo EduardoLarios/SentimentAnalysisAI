@@ -174,7 +174,6 @@ namespace SentimentAnalysis
             Console.WriteLine("Training set is ready");
             Console.WriteLine("\nPress enter to exit...");
             Console.ReadKey();
-            var output = "ps aux".Bash();
         }
     }
 }
