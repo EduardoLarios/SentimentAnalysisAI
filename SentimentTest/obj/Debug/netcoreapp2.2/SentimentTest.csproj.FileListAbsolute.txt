@@ -1,0 +1,11 @@
+/home/ale/Desktop/Ale/AI/SentimentAnalysisAI/SentimentTest/obj/Debug/netcoreapp2.2/SentimentTest.csprojAssemblyReference.cache
+/home/ale/Desktop/Ale/AI/SentimentAnalysisAI/SentimentTest/obj/Debug/netcoreapp2.2/SentimentTest.csproj.CoreCompileInputs.cache
+/home/ale/Desktop/Ale/AI/SentimentAnalysisAI/SentimentTest/obj/Debug/netcoreapp2.2/SentimentTest.AssemblyInfoInputs.cache
+/home/ale/Desktop/Ale/AI/SentimentAnalysisAI/SentimentTest/obj/Debug/netcoreapp2.2/SentimentTest.AssemblyInfo.cs
+/home/ale/Desktop/Ale/AI/SentimentAnalysisAI/SentimentTest/bin/Debug/netcoreapp2.2/SentimentTest.deps.json
+/home/ale/Desktop/Ale/AI/SentimentAnalysisAI/SentimentTest/bin/Debug/netcoreapp2.2/SentimentTest.runtimeconfig.json
+/home/ale/Desktop/Ale/AI/SentimentAnalysisAI/SentimentTest/bin/Debug/netcoreapp2.2/SentimentTest.runtimeconfig.dev.json
+/home/ale/Desktop/Ale/AI/SentimentAnalysisAI/SentimentTest/bin/Debug/netcoreapp2.2/SentimentTest.dll
+/home/ale/Desktop/Ale/AI/SentimentAnalysisAI/SentimentTest/bin/Debug/netcoreapp2.2/SentimentTest.pdb
+/home/ale/Desktop/Ale/AI/SentimentAnalysisAI/SentimentTest/obj/Debug/netcoreapp2.2/SentimentTest.dll
+/home/ale/Desktop/Ale/AI/SentimentAnalysisAI/SentimentTest/obj/Debug/netcoreapp2.2/SentimentTest.pdb
