@@ -174,6 +174,7 @@ namespace SentimentAnalysis
             Console.WriteLine("Training set is ready");
             Console.WriteLine("\nPress enter to exit...");
             Console.ReadKey();
+	    //var output1 = "export CLASSPATH=\"weka-3-8-3/weka.jar\"".Bash();
             var output = "java weka.classifiers.meta.RandomCommittee -l sentiment.model -p 0 -T test.arff > prediction.txt".Bash();
             var pred = File.ReadAllText("prediction.txt").Split('\n');
 
